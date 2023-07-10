@@ -2,7 +2,7 @@
 
 - [Welcome](./welcome.md)
 
-- [Communuty](./community/community.md)
+- [Communuity](./community/community.md)
   - [People](./community/people.md)
   - [Voting](./community/voting.md)
   - [Tasks](./community/tasks.md)
