@@ -1,0 +1,6 @@
+[book]
+authors = ["NeotenicPrimate"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Colony"

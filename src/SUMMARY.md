@@ -1,0 +1,43 @@
+# Summary
+
+- [Welcome](./welcome.md)
+
+- [Communuty](./community/community.md)
+  - [People](./community/people.md)
+  - [Voting](./community/voting.md)
+  - [Tasks](./community/tasks.md)
+
+- [Curriculum](./curriculum/curriculum.md)
+  - [Agroecology](./curriculum/agroecology.md)
+  - [Robotics](./curriculum/robotics.md)
+  - [Statistics](./curriculum/statistics.md)
+  - [Social Science](./curriculum/social_science.md)
+
+- [Infrastructure](./infrastructure/infrastructure.md)
+  - [Habitation](./infrastructure/habitation.md)
+  - [Waste Water](./infrastructure/wastewater.md)
+  - [Water](./infrastructure/water.md)
+  - [Workshop](./infrastructure/workshop.md)
+  - [Electricity](./infrastructure/electricity.md)
+
+- [Ecology](./ecology/ecology.md)
+  - [Fauna](./ecology/fauna/fauna.md)
+    - [Insect](./ecology/fauna/insect/insect.md)
+      - [Cricket](./ecology/fauna/insect/cricket.md)
+      - [Meal Worm](./ecology/fauna/insect/meal_worm.md)
+      - [Bee](./ecology/fauna/insect/bee.md)
+      - [Black Soldier Fly](./ecology/fauna/insect/black_soldier_fly.md)
+    - [Poultry](./ecology/fauna/poultry/poultry.md)
+      - [Chicken](./ecology/fauna/poultry/chicken.md)
+      - [Duck](./ecology/fauna/poultry/duck.md)
+      - [Quail](./ecology/fauna/poultry/quail.md)
+    - [Bovidae](./ecology/fauna/bovidae/bovidae.md)
+      - [Goat](./ecology/fauna/bovidae/goat.md)
+      - [Sheep](./ecology/fauna/bovidae/sheep.md)
+  - [Flora](./ecology/flora/flora.md)
+    - [Bean](./ecology/flora/bean/bean.md)
+    - [Corn](./ecology/flora/corn/corn.md)
+    - [Squash](./ecology/flora/squash/squash.md)
+    - [Duckweed](./ecology/flora/duckweed.md)
+
+  - [Fungi](./ecology/fungi/fungi.md)
