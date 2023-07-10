@@ -39,5 +39,4 @@
     - [Corn](./ecology/flora/corn/corn.md)
     - [Squash](./ecology/flora/squash/squash.md)
     - [Duckweed](./ecology/flora/duckweed.md)
-
   - [Fungi](./ecology/fungi/fungi.md)
