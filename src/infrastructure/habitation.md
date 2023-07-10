@@ -3,5 +3,6 @@
 <p align="center" width="100%"><img src="../images/habitation.png" /></p>
 
 Individual & communal living <br>
+
 Individual & communal farming <br>
 
