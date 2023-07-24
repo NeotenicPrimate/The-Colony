@@ -29,6 +29,7 @@
   - [Duck](./ecology/duck.md)
   - [Quail](./ecology/quail.md)
   - [Goat](./ecology/goat.md)
+  - [Potato](./ecology/potato.md)
   - [Sheep](./ecology/sheep.md)
   - [Bean](./ecology/bean.md)
   - [Corn](./ecology/corn.md)
