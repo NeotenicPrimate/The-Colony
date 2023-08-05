@@ -3,10 +3,3 @@
 <p align="center" width="100%"><img src="./images/logo.png" /></p>
 
 The Colony is a non-profit organization dedicated to offering children a distinctive curriculum that combines agro-ecology and computer programming, delivered by our members who possess PhDs from accredited institutions.
-
-| Agro-Ecology    | Technology                    |
-|-----------------|-------------------------------|
-| Ecology         | Programming                   |
-| Entomology      | Robotics                      |
-| Plant Pathology | Statistics                    |
-| Aquaponics      | Computational Social Sciences |

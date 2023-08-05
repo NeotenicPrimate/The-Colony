@@ -34,6 +34,7 @@
   - [Bean](./ecology/bean.md)
   - [Corn](./ecology/corn.md)
   - [Squash](./ecology/squash.md)
+  - [Earth Worm](./ecology/earth_worm.md)
   - [Hazelnut](./ecology/hazelnut.md)
   - [Duckweed](./ecology/duckweed.md)
   - [Turkey Tail](./ecology/fungi.md)
