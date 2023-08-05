@@ -36,4 +36,4 @@
   - [Earth Worm](./ecology/earth_worm.md)
   - [Hazelnut](./ecology/hazelnut.md)
   - [Duckweed](./ecology/duckweed.md)
-  - [Turkey Tail](./ecology/turkey_tail.md)
+  - [Mushroom](./ecology/mushroom.md)
