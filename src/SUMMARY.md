@@ -15,10 +15,9 @@
 
 - [Infrastructure](./infrastructure/infrastructure.md)
   - [Habitation](./infrastructure/habitation.md)
-  - [Waste Water](./infrastructure/wastewater.md)
   - [Water](./infrastructure/water.md)
   - [Workshop](./infrastructure/workshop.md)
-  - [Electricity](./infrastructure/electricity.md)
+  - [Energy](./infrastructure/energy.md)
 
 - [Ecology](./ecology/ecology.md)
   - [Cricket](./ecology/cricket.md)
