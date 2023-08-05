@@ -1,3 +1,5 @@
 <h1 align="center"> Hazelnut </h1>
 
 <p align="center" width="100%"><img src="../images/hazelnut.png" /></p>
+
+Hazelnuts, also known as filberts, are packed with nutrients and beneficial compounds. They are a great source of monounsaturated and polyunsaturated fats, which are known for their heart-healthy benefits. Hazelnuts are also rich in dietary fiber, promoting digestive health, and contain significant amounts of protein. These nuts provide essential vitamins and minerals, including Vitamin E, Vitamin B6, manganese, copper, magnesium, and phosphorus. Vitamin E, in particular, acts as a powerful antioxidant, protecting cells from damage. Additionally, hazelnuts contain phytochemicals like flavonoids, which may have various health benefits, including anti-inflammatory and anti-cancer properties. 
