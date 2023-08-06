@@ -4,6 +4,8 @@ The commune, an epitome of shared living, is designed to foster a sense of commu
 
 # Individual Space
 
+[Pacific Dome Galery](https://pacificdomes.com/domes-media-gallery/dome-homes-gallery/)
+
 ## Housing
 
 <p align="center" width="100%"><img src="../images/individual_habitation_inside.png" /></p>
