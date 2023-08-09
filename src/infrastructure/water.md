@@ -38,6 +38,8 @@ See [HTC](<./energy#Hydrothermal carbonization (HTC)>) for possible solutions.
 
 # Irrigation
 
+Sustainable irrigation practices are essential for a myriad of reasons. Sustainable irrigation promote water efficiency, minimizing water wastage, and ensuring the long-term viability of the land.
+
 ## Olla
 
 <p align="center" width="25%"><img src="../images/olla.png" /></p>
