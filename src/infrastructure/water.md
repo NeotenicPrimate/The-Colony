@@ -34,7 +34,7 @@ Blackwater, on the other hand, is the wastewater that comes from toilets and con
 
 Due to its high level of contamination, blackwater must undergo extensive treatment before it can be safely discharged into the environment or reused. The treatment process for blackwater is more complex and requires higher levels of sanitation to ensure that harmful pathogens are removed effectively.
 
-See [HTC](./energy#Hydrothermal carbonization (HTC)) for possible solutions.
+See [HTC](<./energy#Hydrothermal carbonization (HTC)>) for possible solutions.
 
 # Other
 
