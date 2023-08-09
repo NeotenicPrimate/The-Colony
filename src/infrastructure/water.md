@@ -4,7 +4,8 @@
 
 # Freshwater
 
-City water or well
+- City water 
+- Well water
 
 # Water Capture
 
@@ -15,6 +16,8 @@ Water collection can be significantly enhanced by slowing down the runoff of wat
 <p align="center" width="100%"><img src="../images/waste_water.png" /></p>
 
 ## Greywater
+
+<p align="center" width="100%"><img src="../images/reeds.png" /></p>
 
 Greywater refers to the wastewater generated from non-toilet plumbing fixtures and appliances in residential or commercial buildings. This type of wastewater includes water from sources such as:
 
@@ -30,6 +33,8 @@ Greywater does not contain fecal matter, so it is considered less contaminated t
 Blackwater, on the other hand, is the wastewater that comes from toilets and contains human waste (feces and urine). It is highly contaminated and potentially carries harmful pathogens, making it a significant health risk. In addition to human waste, blackwater may also contain toilet paper and water used for flushing.
 
 Due to its high level of contamination, blackwater must undergo extensive treatment before it can be safely discharged into the environment or reused. The treatment process for blackwater is more complex and requires higher levels of sanitation to ensure that harmful pathogens are removed effectively.
+
+See [HTC](./energy#Hydrothermal carbonization (HTC)) for possible solutions.
 
 # Other
 
