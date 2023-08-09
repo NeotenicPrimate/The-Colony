@@ -17,7 +17,6 @@ Water collection can be significantly enhanced by slowing down the runoff of wat
 
 ## Greywater
 
-
 Greywater refers to the wastewater generated from non-toilet plumbing fixtures and appliances in residential or commercial buildings. This type of wastewater includes water from sources such as:
 
 - Sinks (kitchen and bathroom)
@@ -25,9 +24,9 @@ Greywater refers to the wastewater generated from non-toilet plumbing fixtures a
 - Washing machines
 - Dishwashers
 
-<img src="../images/reeds.png" width="50%" align="right"/>
-
-Greywater does not contain fecal matter, so it is considered less contaminated than blackwater. However, it can still have impurities and some level of chemical or organic content depending on the specific sources. Due to its relatively lower level of contamination, greywater can be treated and reused for certain non-potable purposes like irrigation, flushing toilets, and in some cases, laundry.
+Greywater does not contain fecal matter, so it is considered less contaminated than blackwater. However, it can still have impurities and some level of chemical or organic content depending on the specific sources. 
+<img src="../images/reeds.png" width="50%" align="right" padding="10px"/>
+Due to its relatively lower level of contamination, greywater can be treated and reused for certain non-potable purposes like irrigation, flushing toilets, and in some cases, laundry.
 
 ## Blackwater
 
@@ -37,7 +36,7 @@ Due to its high level of contamination, blackwater must undergo extensive treatm
 
 See [HTC](<./energy#Hydrothermal carbonization (HTC)>) for possible solutions.
 
-# Other
+# Irrigation
 
 ## Olla
 
