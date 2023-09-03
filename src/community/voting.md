@@ -2,6 +2,8 @@
 
 <p align="center" width="100%"><img src="../images/voting.png" /></p>
 
+At The Colony, unanimous voting is used on big, community-altering decisions to ensure wide support and minimize division. For daily matters like resource allocation, rank-choice voting is more practical, letting people express multiple preferences and producing broadly acceptable outcomes.
+
 ## Ranked-Choice
 
 Ranked-choice voting, also known as instant-runoff voting, is an electoral system in which voters rank candidates in order of preference. Instead of choosing only one candidate, voters have the option to rank multiple candidates from most preferred to least preferred. The counting process involves eliminating candidates with the fewest votes and reallocating their votes to the remaining candidates based on the voters' next preferences until a candidate receives a majority or predetermined threshold of votes.

@@ -1,0 +1,5 @@
+<h1 align="center"> Digital </h1>
+
+<p align="center" width="100%"><img src="../images/gpu.png" /></p>
+
+We host locally up to date open source LLM models to enhance our quality of life and task efficiency. The LLMs could serve multiple purposes, from automating administrative tasks and simplifying legal document processing to providing educational resources for inhabitants. Open-source models offer the advantage of customization, allowing the colony to adapt the technology to its specific needs, whether that's translating languages, generating reports, or even assisting in scientific research, or for general information retrieval. By integrating LLMs into its digital infrastructure, the colony could optimize resources, reduce human error, and free up human capital for more creative and complex tasks, thereby ensuring its long-term viability.
