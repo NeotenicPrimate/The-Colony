@@ -1,3 +1,5 @@
 <h1 align="center"> Financial </h1>
 
 <p align="center" width="100%"><img src="../images/safe.png" /></p>
+
+At The Colony, we prioritize transparency and openness in our financial operations. Our public account is an open ledger available for all members and stakeholders to review. This ledger details all financial transactions, including contributions, withdrawals, and expenditures. Contributions come from various sources—grants, donations, tuition fees, and more. Withdrawals are systematically categorized and itemized to indicate their purpose, whether it's investment in communal tools, procurement of organic food for residents, purchase of educational materials, or acquisition of clothing and essential supplies. By making this information freely accessible, we aim to cultivate trust and collaborative spirit within our community, ensuring that our financial resources are being allocated in a manner that aligns with our mission and values.
