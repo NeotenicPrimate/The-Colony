@@ -4,7 +4,7 @@
 
 # Hydrothermal carbonization (HTC)
 
-<img src="../images/coal.png" width="25%"/>
+<img src="../images/coal.png" width="25%" align="left"/>
 
 Hydrothermal carbonization (HTC) is an innovative thermochemical conversion process that transforms biomass into a coal-like material, known as hydrochar, under high-temperature and pressurized aqueous conditions. In essence, HTC mimics the natural coal formation process but accomplishes it in a few hours instead of millions of years.
 
