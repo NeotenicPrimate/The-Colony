@@ -4,7 +4,7 @@
 
 # 3D Printing
 
-<img style="float: left; width: 25%; padding: 10px;" src="../images/3d_printing.png">
+<img style="float: left; width: 25%; padding: 10px;" src="../images/3d_printer.png">
 3D printing, also known as additive manufacturing, is a revolutionary technology that creates physical objects from digital designs. This process is achieved by laying down successive layers of material until the entire object is formed. The materials used can vary widely and include plastic, metal, ceramics, and even biological substances.
 
 # Wood
