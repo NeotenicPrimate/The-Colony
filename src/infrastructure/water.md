@@ -28,6 +28,19 @@ Greywater does not contain fecal matter, so it is considered less contaminated t
 <div style="padding="10px"><img src="../images/reeds.png" width="25%" align="right"/></div>
 Due to its relatively lower level of contamination, greywater can be treated and reused for certain non-potable purposes like irrigation, flushing toilets, and in some cases, laundry.
 
+### Plants for Greywater Treatment:
+
+- Reed (Phragmites australis) - Commonly used in constructed wetlands for greywater treatment.
+- Cattail (Typha spp.) - Effective at removing pollutants like nitrogen and phosphorus.
+- Water Hyacinth (Eichhornia crassipes) - Known for absorbing heavy metals and other toxins but can be invasive.
+- Duckweed (Lemna spp.) - Effective in nutrient removal but can also be invasive.
+- Bulrush (Schoenoplectus spp.) - Used in wetland systems for treating greywater.
+- Iris (Iris spp.) - Can tolerate wet conditions and helps in removing pollutants.
+- Rush (Juncus spp.) - Used in wetland systems and effective in nutrient removal.
+- Bamboo (Bambusa spp.) - Can be used in greywater systems for nutrient uptake.
+- Willow (Salix spp.) - Effective in removing contaminants and can tolerate wet conditions.
+- Mint (Mentha spp.) - Can be used in small-scale greywater treatment systems.
+
 ## 1. Blackwater
 
 Blackwater, on the other hand, is the wastewater that comes from toilets and contains human waste (feces and urine). It is highly contaminated and potentially carries harmful pathogens, making it a significant health risk. In addition to human waste, blackwater may also contain toilet paper and water used for flushing.
@@ -35,6 +48,19 @@ Blackwater, on the other hand, is the wastewater that comes from toilets and con
 Due to its high level of contamination, blackwater must undergo extensive treatment before it can be safely discharged into the environment or reused. The treatment process for blackwater is more complex and requires higher levels of sanitation to ensure that harmful pathogens are removed effectively.
 
 See [HTC](<./energy#Hydrothermal carbonization (HTC)>) for possible solutions.
+
+### Plants for Blackwater Treatment:
+
+- Vetiver Grass (Chrysopogon zizanioides) - Known for its pollutant-absorbing capabilities.
+- Poplar Trees (Populus spp.) - Effective in absorbing contaminants from blackwater.
+- Switchgrass (Panicum virgatum) - Good for absorbing nutrients and organic matter.
+- Alfalfa (Medicago sativa) - Helps in the removal of heavy metals and other toxins.
+- Sunflower (Helianthus annuus) - Can remove heavy metals from wastewater.
+- Indian Mustard (Brassica juncea) - Known for its ability to absorb heavy metals.
+- Ferns (Pteris spp.) - Effective in arsenic and heavy metal uptake.
+- Papyrus (Cyperus papyrus) - Commonly used in blackwater treatment in constructed wetlands.
+- Water Spinach (Ipomoea aquatica) - Can absorb a range of nutrients and contaminants.
+- Water Lettuce (Pistia stratiotes) - Effective in nutrient removal but can be invasive.
 
 # 1. Irrigation
 

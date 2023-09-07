@@ -16,8 +16,8 @@ Nutritional profile of cricket flour, per 100 grams:
     - Saturated fat: 3-4 grams
     - Unsaturated fat: 6-8 grams
 1. Carbohydrates: 5-10 grams
-1. Fiber: 2-3 grams
-1. Sugars: 1-3 grams
+    - Fiber: 2-3 grams
+    - Sugars: 1-3 grams
 
 ## Micronutrients:
 
@@ -34,3 +34,7 @@ Cricket flour is a complete protein source, meaning it contains all essential am
 ## Fatty Acids:
 
 Rich in Omega-3 and Omega-6 fatty acids.
+
+# Frass
+
+Cricket frass, the waste produced by crickets, is a valuable byproduct of cricket farming. It serves as an organic fertilizer rich in essential nutrients, and its antimicrobial properties offer a natural alternative to chemical pesticides. It is useful in agriculture, composting, and animal feed, making it a versatile and sustainable resource.
