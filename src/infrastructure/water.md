@@ -2,20 +2,20 @@
 
 <p align="center" width="100%"><img src="../images/water.png" /></p>
 
-# 1. Freshwater
+# Freshwater
 
 - City water 
 - Well water
 
-# 1. Water Capture
+# Water Capture
 
 Water collection can be significantly enhanced by slowing down the runoff of water, thereby allowing it to seep into the soil more effectively. This approach involves the creation of barriers or interventions that reduce the speed of water as it moves over the land. By slowing the water's flow, these methods increase the time it has to infiltrate the soil, enhancing groundwater recharge and reducing surface runoff.
 
-# 1. Wastewater
+# Wastewater
 
 <p align="center" width="100%"><img src="../images/waste_water.png" /></p>
 
-## 1. Greywater
+## Greywater
 
 Greywater refers to the wastewater generated from non-toilet plumbing fixtures and appliances in residential or commercial buildings. This type of wastewater includes water from sources such as:
 
@@ -41,7 +41,7 @@ Due to its relatively lower level of contamination, greywater can be treated and
 - Willow (Salix spp.) - Effective in removing contaminants and can tolerate wet conditions.
 - Mint (Mentha spp.) - Can be used in small-scale greywater treatment systems.
 
-## 1. Blackwater
+## Blackwater
 
 Blackwater, on the other hand, is the wastewater that comes from toilets and contains human waste (feces and urine). It is highly contaminated and potentially carries harmful pathogens, making it a significant health risk. In addition to human waste, blackwater may also contain toilet paper and water used for flushing.
 
@@ -62,11 +62,11 @@ See [HTC](<./energy#Hydrothermal carbonization (HTC)>) for possible solutions.
 - Water Spinach (Ipomoea aquatica) - Can absorb a range of nutrients and contaminants.
 - Water Lettuce (Pistia stratiotes) - Effective in nutrient removal but can be invasive.
 
-# 1. Irrigation
+# Irrigation
 
 Sustainable irrigation practices are essential for a myriad of reasons. Sustainable irrigation promote water efficiency, minimizing water wastage, and ensuring the long-term viability of the land.
 
-## 1. Olla
+## Olla
 
 <p align="center" width="25%"><img src="../images/olla.png" /></p>
 
