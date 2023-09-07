@@ -20,6 +20,7 @@
   - [Energy](./infrastructure/energy.md)
   - [Digital](./infrastructure/digital.md)
   - [Financial](./infrastructure/financial.md)
+  - [Processing](./infrastructure/processing.md)
 
 - [Ecology](./ecology/ecology.md)
   - [Cricket](./ecology/cricket.md)
